@@ -15,7 +15,7 @@ from mpmath import hyperu
 from mpmath import pcfd
 import timeit
 
-## linear quench analytic
+## instant quench
 ## parameter setting
 global J, hi, hf, k, quenchtime
 hi = 10  # initial transverse field
