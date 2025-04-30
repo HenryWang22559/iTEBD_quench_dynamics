@@ -13,18 +13,6 @@ The primary goal is to study the ground state properties and real-time dynamics 
 -   **`itebd_torch_quench.ipynb`**: A Jupyter Notebook demonstrating the usage and results of the PyTorch-based quench simulation.
 -   **`Exact_solution_TFIM_1D.py`**: Contains code related to the exact analytical solution of the 1D TFIM, likely used for benchmarking and comparison with the iTEBD results.
 
-## Usage
-
-*(You can add instructions here on how to run the different scripts, e.g., required libraries, command-line arguments, etc.)*
-
-```bash
-# Example: Running the ground state calculation
-python itebd_numpy_gs.py
-
-# Example: Running the quench simulation
-python itebd_torch_quench.py
-```
-
 ## Model Parameters
 
 -   Interaction Strength (J): -1 (Antiferromagnetic)
