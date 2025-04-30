@@ -97,8 +97,6 @@ for i in range(1, step+1):
 end = timeit.default_timer()
 print('Total computing time = ', end-start)
 
-#transverse_magnetization_t_rk4_linear_k100 = transverse_magnetization_t_rk4_linear
-# fprintf('transverse magnetization = %d\n', transverse_magnetization_t)
 plt.figure(dpi=100,figsize=(12,8))
 plt.plot((1)*t_analytic,transverse_magnetization_t_analytic,'-');
 plt.title(r'Transverse Magnetization, ' + r'$B_{x_{i}} = $' + str(hi) + '$, B_{x_{f}} = $' + str(hf));
