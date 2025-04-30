@@ -16,7 +16,8 @@ The primary goal is to study the ground state properties and real-time dynamics 
 ## Model Parameters
 
 -   Interaction Strength (J): -1 (Antiferromagnetic)
--   Transverse Field (h): Varies (used for ground state search and quench protocols)
+-   Transverse Field ($h_x$): Varies (used for ground state search and quench protocols)
+-   Longitudinal Field ($h_z$): Varies (used for ground state search and quench protocols)
 
 ## Method
 
