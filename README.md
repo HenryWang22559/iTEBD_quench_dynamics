@@ -1,6 +1,6 @@
 # 1D Transverse Field Ising Model Simulation using iTEBD
 
-This repository contains Python code for simulating the one-dimensional Transverse Field Ising Model (TFIM) using the infinite Time-Evolving Block Decimation (iTEBD) algorithm.
+This repository contains Python code for simulating the one-dimensional Transverse Field Ising Model (TFIM) using the infinite Time-Evolving Block Decimation (iTEBD) algorithm, which is a Tensor Network Algorithm used for time evolution of 1D quantum many-body system.
 
 ## Project Goal
 
